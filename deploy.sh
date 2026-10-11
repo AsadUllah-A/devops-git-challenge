@@ -1,1 +1,5 @@
-# Deploy Script 
+HEAD
+dev 
+
+staging 
+staging
